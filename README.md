@@ -1,5 +1,5 @@
 # Strabuck
-* 这个数据集是一些模拟 Starbucks rewards 移动 app 上用户行为的数据。每隔几天，星巴克会向 app 的用户发送一些推送。这个推送可能仅仅是一条饮品的广告或者是折扣券或 BOGO（买一送一）。一些顾客可能一连几周都收不到任何推送。我的任务是将交易数据、人口统计数据和推送数据结合起来判断哪一类人群会受到某种推送的影响。
+* 这个数据集是一些模拟 Starbucks rewards 移动 app 上用户行为的数据。每隔几天，星巴克会向 app 的用户发送一些推送。这个推送可能仅仅是一条饮品的广告或者是折扣券或 BOGO（买一送一）。一些顾客可能一连几周都收不到任何推送。我的任务是将交易数据、人口统计数据和推送数据结合起来，预测某个用户会不会受到app推送活动的影响。
 * 用到的库 pandas，numpy，math，json, seaborn, matplotlib, tqdm, datetime, pickle, sklearn,warnings
 * 文件 Starbucks_Capstone_notebook.ipynb
 
